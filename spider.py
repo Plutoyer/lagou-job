@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-#  author: yukno
+#  author: plutoyer
 import requests
 import pymongo
 from config import *
